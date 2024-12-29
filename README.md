@@ -1,5 +1,5 @@
 
-Learns applying Go as the back-end language (e.g. HTTP, concurrency, database, ORM, managing tasks) 
+Learns applying Go as the back-end language (e.g. HTTP, concurrency, database, ORM, managing tasks, Code Architectures, Unit testing) 
 
 - Docker (Managing service instances)
 - GORM (Database, DBRM)
@@ -8,5 +8,7 @@ Learns applying Go as the back-end language (e.g. HTTP, concurrency, database, O
 - RESTful API with Go
 - Authentication
 - Data structures
+- Hexagonal Architecture
+- Clean Architecture
 
 
