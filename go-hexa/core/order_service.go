@@ -16,7 +16,7 @@ type OrderServiceImpl struct{
 func (s *OrderServiceImpl) CreateOrder(order Order) error {
 	// Business logic
 	if order.Total <= 0 {
-		return errors.New("Total must be positive")
+		return errors.New("total must be positive")
 	}
 
 	if err := s.repo.SaveOrder(order); err != nil {
