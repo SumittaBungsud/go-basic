@@ -10,5 +10,6 @@ Learns applying Go as the back-end language (e.g. HTTP, concurrency, database, O
 - Data structures
 - Hexagonal Architecture
 - Clean Architecture
+- Unit testing/ mock environments
 
 
