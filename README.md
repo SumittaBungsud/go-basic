@@ -6,7 +6,8 @@ Learns applying Go as the back-end language (e.g. HTTP, concurrency, database, O
 - Goroutine (Cronjob, Sync package)
 - GoFiber (HTTP server)
 - RESTful API with Go
-- Authentication
+- gRPC API with Go
+- Authentication with JWT
 - Data structures
 - Hexagonal Architecture
 - Clean Architecture
